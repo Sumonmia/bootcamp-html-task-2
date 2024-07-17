@@ -1,0 +1,4 @@
+colors:
+    watch:#27cbee
+    shoe: #1b73f9
+    bags: #218656
